@@ -3,7 +3,7 @@
 # **P R A T E E K S H A** &nbsp;&nbsp; **R A N J A N**
 ### **Embedded Systems · Edge AI · Machine Learning · Software Engineering**
 
-**Designing intelligent systems where hardware, AI, and software meet with precision, performance, and clean engineering.**
+**Building intelligent systems where hardware, AI, and software come together with precision and clarity.**
 
 [LinkedIn](https://linkedin.com/in/prateeksharanjan) • [GitHub](https://github.com/prateeksha9) • **prateeksha.67@gmail.com**
 
@@ -12,10 +12,11 @@
 </div>
 
 ## About Me
-I build systems that operate close to the hardware—optimized, predictable, and designed for real-world constraints.
+I’m a graduate student in **Embedded and Cyber-Physical Systems at UC Irvine**, where I focus on building systems that run close to the hardware and operate reliably under real-world constraints. My background in Electrical Engineering has shaped the way I think about systems—grounded in low-level behavior, performance, and the physics of how things actually work.
 
-My work spans embedded Linux, on-device AI, full-stack development, and automation pipelines.  
-I care about clean architecture, performance, and designing systems that feel thoughtfully engineered end-to-end.
+I enjoy working across the full engineering stack. Some days that means writing firmware or optimizing computer vision models for an embedded NPU; other days it means designing backend services, automating infrastructure, or creating clean and intuitive interfaces. What motivates me is the ability to take an idea from concept to a thoughtfully engineered, end-to-end solution.
+
+I care deeply about clarity in design, predictable performance, and building systems that feel intentional rather than stitched together. If something can be made more elegant, faster, or more reliable, I’ll almost always take the time to make it so.
 
 ---
 
@@ -95,26 +96,22 @@ I care about clean architecture, performance, and designing systems that feel th
 # Experience
 
 ### **Keysight Technologies — R&D Software Engineering**
-Automation frameworks · distributed CI/CD · Linux tooling · Go/Python systems · packaging & deployment workflows.
+I work on engineering infrastructure, automation tooling, CI/CD workflows, and Linux-based systems. My focus has been on creating reliable internal tools and improving the speed and consistency of large-scale validation environments.
 
 ---
 
 ### **Linarc — Software Development Engineer**
-Full-stack engineering across Django/PostgreSQL/Vue.js, backend optimization, dashboard systems, and production reliability.
+I contributed across the full stack, from backend APIs and database models to frontend dashboards. Much of my work centered on building stable, scalable systems that supported real customer workflows in production.
 
 ---
 
 ### **[24]7.ai — Software Development Engineer**
-High-scale API systems, real-time debugging, customer-facing engineering, and reliability improvements.
+I helped build and maintain high-scale backend systems used by customer-facing applications. This included debugging live issues, improving reliability, and delivering features used by thousands of users every day.
 
 ---
 
 # Interests
-- Embedded intelligence  
-- Hardware/software co-design  
-- Optimized ML models  
-- Real-time sensing & computer vision  
-- Clean tooling & engineering automation  
+I’m especially interested in embedded intelligence, hardware–software co-design, optimized ML for constrained devices, real-time sensing, and tools that improve the engineering experience.
 
 ---
 
