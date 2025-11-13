@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🜁 **P R A T E E K S H A  R A N J A N**
-### **Embedded Systems · Edge AI · Software Engineering**
+### **Embedded Systems · Edge AI · Machine Learning · Software Engineering**
 
 **Designing intelligent systems where hardware, AI, and software meet with precision, performance, and clean engineering.**
 
