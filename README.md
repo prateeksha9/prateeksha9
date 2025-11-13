@@ -50,6 +50,10 @@ I care deeply about clarity in design, predictable performance, and building sys
 <img src="https://img.shields.io/badge/ONNX-000?style=flat-square&logo=onnx&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOv8-000?style=flat-square&logo=ai&logoColor=white"/>
 <img src="https://img.shields.io/badge/TFLite-000?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-000?style=flat-square&logo=semanticweb&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
 </td>
