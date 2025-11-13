@@ -98,12 +98,12 @@ I care deeply about clarity in design, predictable performance, and building sys
 ### **Keysight Technologies, Calabasas, CA, USA | R&D Software Engineering Intern**
 I work on engineering infrastructure, automation tooling, CI/CD workflows, and Linux-based systems. My focus has been on creating reliable internal tools and improving the speed and consistency of large-scale validation environments.
 
-<hr style="border: 0.2px solid #666; opacity: 0.4;" />
+<hr style="border: 0.1px solid #666; opacity: 0.4;" />
 
 ### **Linarc, Bangalore, India | Software Development Engineer**
 I contributed across the full stack, from backend APIs and database models to frontend dashboards. Much of my work centered on building stable, scalable systems that supported real customer workflows in production.
 
-<hr style="border: 0.2px solid #666; opacity: 0.4;" />
+<hr style="border: 0.1px solid #666; opacity: 0.4;" />
 
 ### **[24]7.ai, Bangalore, India | Software Development Engineer**
 I helped build and maintain high-scale backend systems used by customer-facing applications. This included debugging live issues, improving reliability, and delivering features used by thousands of users every day.
