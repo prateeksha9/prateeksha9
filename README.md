@@ -11,7 +11,7 @@
 
 </div>
 
-## ✨ About Me
+## About Me
 I build systems that operate close to the hardware—optimized, predictable, and designed for real-world constraints.
 
 My work spans embedded Linux, on-device AI, full-stack development, and automation pipelines.  
@@ -19,7 +19,7 @@ I care about clean architecture, performance, and designing systems that feel th
 
 ---
 
-# 🧠 Tech Stack (Minimalist Cards)
+# Tech Stack (Minimalist Cards)
 
 <div align="center">
 
@@ -92,7 +92,7 @@ I care about clean architecture, performance, and designing systems that feel th
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### **Keysight Technologies — R&D Software Engineering**
 Automation frameworks · distributed CI/CD · Linux tooling · Go/Python systems · packaging & deployment workflows.
@@ -109,7 +109,7 @@ High-scale API systems, real-time debugging, customer-facing engineering, and re
 
 ---
 
-# 🎯 Interests
+# Interests
 - Embedded intelligence  
 - Hardware/software co-design  
 - Optimized ML models  
@@ -118,7 +118,7 @@ High-scale API systems, real-time debugging, customer-facing engineering, and re
 
 ---
 
-# 📊 GitHub Overview
+# GitHub Overview
 
 <div align="center">
 
@@ -131,7 +131,7 @@ High-scale API systems, real-time debugging, customer-facing engineering, and re
 
 <div align="center">
 
-### 📬 **Let’s Connect**
+### **Let’s Connect**
 **Email:** prateeksha.67@gmail.com  
 **LinkedIn:** linkedin.com/in/prateeksharanjan  
 **GitHub:** github.com/prateeksha9  
