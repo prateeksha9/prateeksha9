@@ -12,7 +12,7 @@
 </div>
 
 ## About Me
-I’m a graduate student in **Embedded and Cyber-Physical Systems at UC Irvine**, where I focus on building systems that run close to the hardware and operate reliably under real-world constraints. My background in Electrical Engineering has shaped the way I think about systems—grounded in low-level behavior, performance, and the physics of how things actually work.
+I’m a graduate student in **Embedded and Cyber-Physical Systems at UC Irvine**, where I focus on building systems that run close to the hardware and operate reliably under real-world constraints. My background in Electrical Engineering has shaped the way I think about systems, grounded in low-level behavior, performance, and the physics of how things actually work.
 
 I enjoy working across the full engineering stack. Some days that means writing firmware or optimizing computer vision models for an embedded NPU; other days it means designing backend services, automating infrastructure, or creating clean and intuitive interfaces. What motivates me is the ability to take an idea from concept to a thoughtfully engineered, end-to-end solution.
 
@@ -95,17 +95,17 @@ I care deeply about clarity in design, predictable performance, and building sys
 
 # Experience
 
-### **Keysight Technologies — R&D Software Engineering**
+### **Keysight Technologies, Calabasas, CA, USA | R&D Software Engineering Intern**
 I work on engineering infrastructure, automation tooling, CI/CD workflows, and Linux-based systems. My focus has been on creating reliable internal tools and improving the speed and consistency of large-scale validation environments.
 
 ---
 
-### **Linarc — Software Development Engineer**
+### **Linarc, Bangalore, India | Software Development Engineer**
 I contributed across the full stack, from backend APIs and database models to frontend dashboards. Much of my work centered on building stable, scalable systems that supported real customer workflows in production.
 
 ---
 
-### **[24]7.ai — Software Development Engineer**
+### **[24]7.ai, Bangalore, India | Software Development Engineer**
 I helped build and maintain high-scale backend systems used by customer-facing applications. This included debugging live issues, improving reliability, and delivering features used by thousands of users every day.
 
 ---
