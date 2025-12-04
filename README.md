@@ -5,7 +5,7 @@
 
 **Building intelligent systems where hardware, AI, and software come together with precision and clarity.**
 
-[LinkedIn](https://linkedin.com/in/prateeksharanjan) • [Portfolio](prateeksharanjan.netlify.app) • [GitHub](https://github.com/prateeksha9) • **prateeksha.67@gmail.com**
+[LinkedIn](https://linkedin.com/in/prateeksharanjan) • [Portfolio](https://prateeksharanjan.netlify.app/) • [GitHub](https://github.com/prateeksha9) • **prateeksha.67@gmail.com**
 
 ---
 
